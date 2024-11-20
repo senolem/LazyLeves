@@ -1,0 +1,13 @@
+{
+    "Author": "melones",
+    "Name": "LazyLeves",
+    "Punchline": "A plugin to help you turning in your leves for a quick buck.",
+    "Description": "A plugin to help you turning in your leves for a quick buck. /lazyleves to show up window",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "lazy",
+        "leve",
+        "leves",
+        "levequest"
+    ]
+}

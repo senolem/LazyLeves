@@ -1,0 +1,30 @@
+{
+    "Plugin.DisplayName": {
+        "en": "LazyLeves"
+    },
+    "CommandHandlerHelpMessage": {
+        "en": "Open Window",
+        "de": "Ouvrir la fenêtre"
+    },
+    "WindowTitle.Main": {
+        "en": "LazyLeves"
+    },
+    "WindowTitle.Configuration": {
+        "en": "LazyLeves Configuration",
+        "fr": "Configuration de LazyLeves"
+    },
+    "TitleBarButton.ToggleConfig.Tooltip.OpenConfig": {
+        "en": "Open Configuration",
+        "fr": "Ouvrir la configuration"
+    },
+    "TitleBarButton.ToggleConfig.Tooltip.CloseConfig": {
+        "en": "Close Configuration",
+        "fr": "Fermer la configuration"
+    },
+    "template": {
+        "en": "",
+        "de": "",
+        "fr": "",
+        "ja": ""
+    }
+}
